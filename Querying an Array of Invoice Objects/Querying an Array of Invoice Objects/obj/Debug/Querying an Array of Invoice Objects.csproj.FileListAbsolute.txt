@@ -1,0 +1,7 @@
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\bin\Debug\Querying an Array of Invoice Objects.exe.config
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\bin\Debug\Querying an Array of Invoice Objects.exe
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\bin\Debug\Querying an Array of Invoice Objects.pdb
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\obj\Debug\Querying an Array of Invoice Objects.csproj.AssemblyReference.cache
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\obj\Debug\Querying an Array of Invoice Objects.csproj.CoreCompileInputs.cache
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\obj\Debug\Querying an Array of Invoice Objects.exe
+C:\Users\Ensar's PC\Desktop\Udemy\Querying an Array of Invoice Objects\Querying an Array of Invoice Objects\obj\Debug\Querying an Array of Invoice Objects.pdb
